@@ -1,0 +1,23 @@
+//Viết lệnh sql để có thể lấy thông tin những bản ghi của categories và số lượng items của 
+mỗi categories đó (count items)
+
+SELECT * FROM 'categories';
+
+
+SELECT COUNT(id) FROM items;
+
+//Viết lệnh sql để có thể lấy thông tin những bản ghi của categories và tổng số amount của 
+các items trong categories đó
+
+SELECT SUM(amount) FROM items;
+
+//Viết lệnh sql để có thể lấy thông tin những bản ghi của categories mà có ít nhất một items của nó có amount > 40
+
+
+SELECT * FROM `items` WHERE amount > 40;
+
+//Viết lệnh sql để xóa những categories mà đang không có items nào
+
+DELETE FROM items WHERE amount=NULL;
+
+
