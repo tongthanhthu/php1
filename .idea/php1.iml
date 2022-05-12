@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/laravel_thu/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel_thu/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel_thu/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel_thu/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/maximebf/debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/barryvdh/laravel-debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel_thu/vendor/laravel/helpers" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
