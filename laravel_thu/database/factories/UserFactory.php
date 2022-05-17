@@ -14,7 +14,8 @@ use App\Models\User;
      {
     return [ 'mail_address' => $this->faker->safeEmail,
         'password' => bcrypt(str_random(10)),
-        'name' => $this->faker->name, 'address' => 'Hà Nội',
+        'name' => $this->faker->name,
+        'address' => 'Hà Nội',
         'phone' => $this->faker->numerify('##########'),
         'remember_token' => Str::random(10), ];
   }
